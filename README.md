@@ -5,3 +5,6 @@ https://www.canva.com/design/DAF4Kg_CzrU/OR7mNwfewZNO3v8U4WVadw/edit?utm_content
 
 ## Synopsis: 
 https://1drv.ms/w/s!AtelbSonj8qX3DnwUXRpFb5xq90a?e=ypbXyK
+
+## We can use this dataset on kaggle: 
+https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadssanctioncsv
